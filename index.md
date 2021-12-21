@@ -1,5 +1,4 @@
-Here you can say lots of fun things about your site.
+Hi, THis is my first blog page on GitHub, created on Dec 21, 2021
 
-Maybe say a some things about yourself.
+I plan to use this to blog what I am doing on GitHub
 
-Or maybe what you plan to blog about.
