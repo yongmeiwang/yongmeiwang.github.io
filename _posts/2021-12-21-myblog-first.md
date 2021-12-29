@@ -8,4 +8,5 @@ We need to learn more about git. Here is a course recommended on Udemy.
 
 Click the link above to see if it works
 
+Link to my students personal blogs on github. [Kelvin](https://ultrasord.github.io/) and [Carey](https://kagrat17.github.io)
 
