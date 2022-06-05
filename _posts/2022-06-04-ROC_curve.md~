@@ -1,0 +1,6 @@
+# I am trying to understand the ROC curve.
+So you have a sample Ntot, in which N+ is diseased, N- is healthy. You perform a test. You can make a 2x2 table.
+|Header |Disease
+|Paragraph | + -
+test
+
