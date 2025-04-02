@@ -8,7 +8,7 @@ git clone\
 git add "files"\
 git commit -a -m "comments"\
 git push
-
+Now I am editing this with VS studio
 
 
 
