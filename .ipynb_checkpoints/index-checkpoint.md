@@ -8,7 +8,7 @@ git clone\
 git add "files"\
 git commit -a -m "comments"\
 git push
-
+Now I am using Microsoft Visual Stuido to edit this file
 
 
 
