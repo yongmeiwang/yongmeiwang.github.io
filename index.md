@@ -7,7 +7,7 @@ The limited git commands that I use to push/download between gitHub and my Mac a
 git clone\
 git add "files"\
 git commit -a -m "comments"\
-git push
+git push\
 Now I am editing this with VS studio
 
 
