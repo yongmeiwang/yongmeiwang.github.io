@@ -4,6 +4,6 @@ Here are the links to their personal blog
 <br>
 - [Renne's blog](https://rwang08.github.io/) 
 - [Phoebe's first blog](https://phoebe-miao.github.io/2025/07/08/Phoebe's-First-Blog.html)
-- Levi's first blog ist at (https://levilei320.github.io/2025/07/08/blog-post-title-from-file-name.html)
-- Ping's first blog is at (https://pingery.github.io/2025/07/08/my-first-blog.html) 
+- [Levi's first blog ](https://levilei320.github.io/2025/07/08/blog-post-title-from-file-name.html)
+- [Ping's first blog](https://pingery.github.io/2025/07/08/my-first-blog.html) 
 </br>
