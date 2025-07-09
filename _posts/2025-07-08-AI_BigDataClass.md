@@ -6,4 +6,11 @@ Here are the links to their personal blog
 - [Phoebe's first blog](https://phoebe-miao.github.io/2025/07/08/Phoebe's-First-Blog.html)
 - [Levi's first blog ](https://levilei320.github.io/2025/07/08/blog-post-title-from-file-name.html)
 - [Ping's first blog](https://pingery.github.io/2025/07/08/my-first-blog.html) 
-</br>
+
+Each of them have also research a cancer and wrote their first blog on cancer research.
+- [Renne's first blog on cancer](https://rwang08.github.io/2025/07/08/cancer-post.html)
+- [Phoeb's first blog on cancer](https://phoebe-miao.github.io/2025/07/08/Looking-into-Leukemia.html)
+- [Levi's first blog on cacner](https://levilei320.github.io/2025/07/08/prostate-cancer.html)
+- [Ping's blog on cancer](https://pingery.github.io/2025/07/08/my-cancer-research.html)
+
+  
