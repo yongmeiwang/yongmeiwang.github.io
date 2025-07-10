@@ -14,4 +14,4 @@ Each of them have also research a cancer and wrote their first blog on cancer re
 - [Ping's blog on cancer](https://pingery.github.io/2025/07/08/my-cancer-research.html)
 
   
-[I created a html file today](https://yongmeiwang.github.io/summer2025.html)
+[I created a html file today](https://yongmeiwang.github.io/summer2025_first.html)
