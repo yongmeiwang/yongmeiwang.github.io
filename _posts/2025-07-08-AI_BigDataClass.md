@@ -3,9 +3,9 @@ I am teaching AI and BigData in Cancer Biology in Summer 2025 to some local high
 Here are the links to their personal blog
 <br>
 - [Renne's blog](https://rwang08.github.io/) 
-- [Phoebe's first blog](https://phoebe-miao.github.io/2025/07/08/Phoebe's-First-Blog.html)
-- [Levi's first blog ](https://levilei320.github.io/2025/07/08/blog-post-title-from-file-name.html)
-- [Ping's first blog](https://pingery.github.io/2025/07/08/my-first-blog.html) 
+- [Phoebe's blog](https://phoebe-miao.github.io/)
+- [Levi's blog ](https://levilei320.github.io/)
+- [Ping's blog](https://pingery.github.io/) 
 
 Each of them have also research a cancer and wrote their first blog on cancer research.
 - [Renne's first blog on cancer](https://rwang08.github.io/2025/07/08/cancer-post.html)
