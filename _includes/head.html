@@ -21,4 +21,7 @@
 
   <script type="text/javascript"> hljs.highlightAll(); </script>
   <!-- end highlight.js support -->
+  {% if jekyll.environment == 'production' and site.google_analytics %}
+  {% include analytics.html %}
+{% endif %}
 </head>
