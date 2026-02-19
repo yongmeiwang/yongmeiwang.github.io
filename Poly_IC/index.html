@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Your Name | Portfolio</title>
+    <meta name="description" content="A modern portfolio website hosted on GitHub Pages." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Manrope:wght@400;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav container">
+        <a class="brand" href="#home">YourName</a>
+        <button id="menuToggle" class="menu-toggle" aria-label="Toggle menu">Menu</button>
+        <ul id="menu" class="menu">
+          <li><a href="#about">About</a></li>
+          <li><a href="#projects">Projects</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main id="home">
+      <section class="hero container reveal">
+        <p class="tag">Web Developer</p>
+        <h1>Building fast, clear websites that solve real problems.</h1>
+        <p class="subtitle">
+          I design and develop modern websites with strong UX, clean code, and reliable performance.
+        </p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="#projects">View Work</a>
+          <a class="btn btn-secondary" href="#contact">Contact Me</a>
+        </div>
+      </section>
+
+      <section id="about" class="about container reveal">
+        <h2>About</h2>
+        <p>
+          Replace this text with your background, skills, and the type of projects you want to be hired for.
+          Keep it concise and specific.
+        </p>
+      </section>
+
+      <section id="projects" class="projects container reveal">
+        <h2>Projects</h2>
+        <div class="cards">
+          <article class="card">
+            <h3>Project One</h3>
+            <p>Short description of what you built, who it helps, and key technologies used.</p>
+            <a href="#" aria-label="Open project one">Live Demo</a>
+          </article>
+          <article class="card">
+            <h3>Project Two</h3>
+            <p>Short description of what you built, who it helps, and key technologies used.</p>
+            <a href="#" aria-label="Open project two">Live Demo</a>
+          </article>
+          <article class="card">
+            <h3>Project Three</h3>
+            <p>Short description of what you built, who it helps, and key technologies used.</p>
+            <a href="#" aria-label="Open project three">Live Demo</a>
+          </article>
+        </div>
+      </section>
+
+      <section id="contact" class="contact container reveal">
+        <h2>Contact</h2>
+        <p>Reach me at <a href="mailto:you@example.com">you@example.com</a> or on GitHub.</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>© <span id="year"></span> Your Name. All rights reserved.</p>
+    </footer>
+
+    <script src="script.js"></script>
+  </body>
+</html>
