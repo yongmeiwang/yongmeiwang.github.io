@@ -1,5 +1,14 @@
-﻿_site
-
+﻿
+# macOS
 .DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Generated website
+_site/
+
+
+
 
 
