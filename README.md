@@ -1,1 +1,1 @@
-This is my personal blog created by following some's blog.
+This is my personal blog created by following someone's blog.
